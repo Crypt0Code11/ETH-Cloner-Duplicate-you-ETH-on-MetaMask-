@@ -7,4 +7,4 @@ Get you ETH x2, using this Coin Cloner! Working only on MetaMask ETHs.
 
 💥 Warning! If you dont have ANY coins, it will not work.
 
-$ If you will find any bugs/glitches, write to me!
+!If you will find any bugs/glitches, write to me!
